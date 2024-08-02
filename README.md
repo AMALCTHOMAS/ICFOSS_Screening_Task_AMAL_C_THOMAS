@@ -18,3 +18,14 @@ This documentation provides a comprehensive guide for setting up, executing, and
 ```bash
 git clone https://github.com/AMALCTHOMAS/ICFOSS_Screening_Task_AMAL_C_THOMAS.git
 cd ICFOSS_Screening_Task_AMAL_C_THOMAS
+### 2. Set Up MongoDB Database
+
+### Access MongoDB Shell
+
+Open your terminal and start the MongoDB shell by typing:
+
+```bash
+mongosh
+
+###Create the Database and User
+####In the MongoDB shell, run the following commands to create a database named auth and a user with the username authuser and password password:
