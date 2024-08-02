@@ -27,5 +27,5 @@ Open your terminal and start the MongoDB shell by typing:
 ```bash
 mongosh
 
-###Create the Database and User
+#Create the Database and User
 ####In the MongoDB shell, run the following commands to create a database named auth and a user with the username authuser and password password:
