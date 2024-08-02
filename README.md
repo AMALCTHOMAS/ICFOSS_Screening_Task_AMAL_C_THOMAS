@@ -16,5 +16,5 @@ This documentation provides a comprehensive guide for setting up, executing, and
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/AMALCTHOMAS/ICFOSS_Screening_Task_AMAL_C_THOMAS.git
+cd ICFOSS_Screening_Task_AMAL_C_THOMAS
