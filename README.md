@@ -79,13 +79,13 @@ npm run dev
 
 ## Register a New User
 
-1. Navigate to [http://localhost:5175/register](http://localhost:5175/register).
+1. Navigate to [http://localhost:5173/register](http://localhost:5173/register).
 2. Fill in the registration form with valid data.
 3. Submit the form to create a new user account.
 
 ## Login
 
-1. Navigate to [http://localhost:5175/](http://localhost:5175/).
+1. Navigate to [http://localhost:5173/](http://localhost:5173/).
 2. Enter your registered username and password.
 3. Submit the form to log in.
 
@@ -94,7 +94,7 @@ npm run dev
 ## Frontend
 - **Framework:** React
 - **Development Tool:** Vite
-- **Port:** 5175
+- **Port:** 5173
 
 ## Backend
 - **Framework:** Express.js
