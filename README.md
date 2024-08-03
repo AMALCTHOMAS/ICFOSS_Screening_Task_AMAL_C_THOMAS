@@ -82,12 +82,18 @@ npm run dev
 1. Navigate to [http://localhost:5173/register](http://localhost:5173/register).
 2. Fill in the registration form with valid data.
 3. Submit the form to create a new user account.
+   ![User Registration form](https://github.com/AMALCTHOMAS/ICFOSS_Screening_Task_AMAL_C_THOMAS/blob/main/screenshorts/1.png)
 
 ## Login
 
 1. Navigate to [http://localhost:5173/](http://localhost:5173/).
 2. Enter your registered username and password.
 3. Submit the form to log in.
+   ![Login form](https://github.com/AMALCTHOMAS/ICFOSS_Screening_Task_AMAL_C_THOMAS/blob/main/screenshorts/2.png)
+
+   ![Dashboard](https://github.com/AMALCTHOMAS/ICFOSS_Screening_Task_AMAL_C_THOMAS/blob/main/screenshorts/3.png)
+
+   ![Change Password](https://github.com/AMALCTHOMAS/ICFOSS_Screening_Task_AMAL_C_THOMAS/blob/main/screenshorts/4.png)
 
 # Technical Details
 
